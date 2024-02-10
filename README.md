@@ -1,5 +1,5 @@
-# Hi, Iam Lasya Reddy
-A passionate Data structure and Algorithm and Development enthusiast from India# Hi there! 👋
+# Hi 👋, Iam Lasya Reddy
+A passionate Data structure and Algorithm and Development enthusiast from India
 
 🌱 I’m currently learning ReactJS, JavaScript, NodeJS, and C++ Algorithms.
 
@@ -13,14 +13,14 @@ A passionate Data structure and Algorithm and Development enthusiast from India#
 
 
 ## Languages and Tools:
+## Languages and Tools:
 
-- C
-- C++
-- CSS3
-- Git
-- HTML5
-- JavaScript
-- Node.js
-- React
+![C](https://img.icons8.com/color/48/000000/c-programming.png) 
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png) 
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)![React](https://img.icons8.com/color/48/000000/react-native.png)
 
 Feel free to reach out and connect!
