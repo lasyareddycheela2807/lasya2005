@@ -7,6 +7,7 @@ A passionate Data structure and Algorithm and Development enthusiast from India#
 
 ## Connect with me:
 
+- Leetcode: [lasyacheela](https://leetcode.com/lasyacheela/)
 - GitHub: [lasyacheela2807](https://github.com/lasyareddycheela2807)
 - LinkedIn: [lasyacheela](https://www.linkedin.com/in/lasya-cheela-917b5a27a/)
 
